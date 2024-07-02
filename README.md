@@ -11,5 +11,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/philipjonathanhutahaean/)
 - [Instagram](https://www.instagram.com/philipjh_)
-
+- 
 Feel free to connect with me to discuss tech, collaboration, or just to say hi!
+
+[![Philip GitHub stats](https://github-readme-stats.vercel.app/api?username=Philiphutahaean&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
