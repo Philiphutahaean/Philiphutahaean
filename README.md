@@ -1,6 +1,9 @@
 # Hi, I'm Philip Jonathan Hutahaean! 👋
 
 🎓 I'm a student at Indonesia Adventist University, majoring in Information Technology. Passionate about both backend and frontend development, I enjoy building dynamic and responsive web applications.
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@218101514099/30-nites-of-code)  
+  ![@218101514099 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=218101514099)
 
 ## 🛠 Skills
 
